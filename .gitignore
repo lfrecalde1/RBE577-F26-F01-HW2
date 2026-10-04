@@ -1,2 +1,5 @@
 # Downloaded dataset
 /data/
+
+# Local Python environment
+/.venv/

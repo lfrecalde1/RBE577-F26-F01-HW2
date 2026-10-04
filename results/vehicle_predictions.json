@@ -1,0 +1,69 @@
+{
+  "selection_seed": 42,
+  "checkpoint": "results/best_model.pth",
+  "checkpoint_sha256": "f4c751ee39a73ea7fff8cd82a768f585d62c8061fbe93133548d28d55559a30d",
+  "checkpoint_epoch": 26,
+  "validation_accuracy": 0.955,
+  "images": [
+    {
+      "image": "data/val/SUV/1a0f819be4dce50a5372679b36c2777f.jpg",
+      "true_class": "SUV",
+      "predicted_class": "SUV",
+      "correct": true
+    },
+    {
+      "image": "data/val/bus/066c695f141f27ea881df8af5a827c99.jpg",
+      "true_class": "bus",
+      "predicted_class": "bus",
+      "correct": true
+    },
+    {
+      "image": "data/val/family sedan/98b83106dcaeeb585913fb59c8525757.jpg",
+      "true_class": "family sedan",
+      "predicted_class": "family sedan",
+      "correct": true
+    },
+    {
+      "image": "data/val/fire engine/61b29def40ee024890ebc2af8851a120.jpg",
+      "true_class": "fire engine",
+      "predicted_class": "fire engine",
+      "correct": true
+    },
+    {
+      "image": "data/val/heavy truck/51a610fa467c9b6d0a0c9ebc87ebd6cd.jpg",
+      "true_class": "heavy truck",
+      "predicted_class": "heavy truck",
+      "correct": true
+    },
+    {
+      "image": "data/val/jeep/6f13f51f98bd1e2332bfa6f1c1c5ff14.jpg",
+      "true_class": "jeep",
+      "predicted_class": "jeep",
+      "correct": true
+    },
+    {
+      "image": "data/val/minibus/4b71b5a2fa94a71b0581c6650a0f8d0a.jpg",
+      "true_class": "minibus",
+      "predicted_class": "minibus",
+      "correct": true
+    },
+    {
+      "image": "data/val/racing car/f10970a8037b7abdc2567d77ca30b14a.jpg",
+      "true_class": "racing car",
+      "predicted_class": "racing car",
+      "correct": true
+    },
+    {
+      "image": "data/val/taxi/2aeb7856890c8dc0e0b311077d386690.jpg",
+      "true_class": "taxi",
+      "predicted_class": "taxi",
+      "correct": true
+    },
+    {
+      "image": "data/val/truck/f400677842675240319e69bc2e5998eb.jpg",
+      "true_class": "truck",
+      "predicted_class": "truck",
+      "correct": true
+    }
+  ]
+}
